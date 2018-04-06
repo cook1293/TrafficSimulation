@@ -2,7 +2,7 @@ package traffic;
 
 /**
 	信号交差点シミュレーションベーシック版
-	@author proglight
+	@author cook1293
 */
 
 import java.awt.BasicStroke;
